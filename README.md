@@ -1,4 +1,4 @@
-## <img src="https://github.com/w3bsme/w3bsme/blob/master/resources/hi.gif?raw=true" width="30px"> Hi, I am full-stack developer
+## <img src="https://raw.githubusercontent.com/w3bsme/w3bsme/main/resources/hi.gif" width="30px"> Hi, I am full-stack developer
 
 <img align="right" alt="Octocat" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" >
 
