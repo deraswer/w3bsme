@@ -48,6 +48,13 @@
     </a>
 </p>
 
+### 2020
+<p align="left">
+    <a href="https://github.com/ahkcsgo">
+        <img src="https://avatars.githubusercontent.com/u/73941222" alt="AHK CS:GO" width="40" height="40"/>
+    </a>
+</p>
+
 ### 2021
 <p align="left">
     <a href="https://zeer-gaming.ru">
