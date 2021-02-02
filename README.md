@@ -39,6 +39,24 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
 </p>
 
+## Projects in which I took part :zap:
+
+### 2018
+<p align="left">
+    <a href="https://xlocale.ru">
+        <img src="https://avatars.githubusercontent.com/u/77134257" alt="xlocale" width="40" height="40"/>
+    </a>
+</p>
+
+### 2021
+<p align="left">
+    <a href="https://zeer-gaming.ru">
+        <img src="https://raw.githubusercontent.com/w3bsme/w3bsme/main/resources/zeer.svg" alt="zeer gaming" width="40" height="40"/>
+    </a>
+</p>
+
+## Additional information :raised_hand_with_fingers_splayed:
+
 &nbsp;
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=w3bsme&show_icons=true&locale=en&layout=compact" alt="w3bsme" />
