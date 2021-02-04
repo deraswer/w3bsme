@@ -4,9 +4,9 @@
 
 :v: I’m [looking for help](https://t.me/w3bsme) with on entry level projects
 
-:page_facing_up: Ask me about front-end development, MERN stack, and coding resources. I am the queen of resources :sparkles:
+:page_facing_up: Ask me about front-end development, MERN stack, and coding resources. I am the queen of resources
 
-:zap: Fun fact: I am more productive at night than during the day :anguished:
+:zap: Fun fact: I am more productive at night than during the day
 
 :briefcase: I use [Atom][1] :atom:
 
