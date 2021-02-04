@@ -8,6 +8,10 @@
 
 :zap: Fun fact: I am more productive at night than during the day :anguished:
 
+:briefcase: I use [Atom][1] :atom:
+
+[1]: https://atom.io
+
 ## Tech Stack :computer:
 
 <p align="left">
