@@ -10,6 +10,8 @@
 
 :briefcase: I use [Atom][1] :atom:
 
+:writing_hand: The next project is [use-telegram](https://github.com/w3bsme/use-telegram)
+
 [1]: https://atom.io
 
 ## Tech Stack :computer:
